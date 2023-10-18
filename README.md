@@ -32,6 +32,8 @@ Testing the webserver
 ![image](https://github.com/Loknaath-sec/Web_server/assets/145742558/acc9fb27-9aa6-4a85-86ad-c9eed216222a)
 
 # OUTPUT:
+![Webserver_output](https://github.com/Loknaath-sec/Web_server/assets/145742558/220d0574-d279-4c04-a9a6-8c84e4978123)
+
 
 # RESULT:
 
